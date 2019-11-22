@@ -38,6 +38,7 @@
     "newman": "^3.8.3",
     "node-mocks-http": "^1.6.4",
     "sequelize-cli": "^3.0.0",
+    "sinon": "^7.5.0",
     "testdouble": "^3.2.4"
   }
 }
